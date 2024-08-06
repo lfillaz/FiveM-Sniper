@@ -29,5 +29,7 @@ It also extracts active player data, including:
 - **Discord ID**
 - **Steam ID**
 
-**Disclaimer:** This tool can be used to gather sensitive information. Any unethical use of this tool is the sole responsibility of the user.
+**Disclaimer:** 
+This tool can be used to gather sensitive information. Any unethical use of this tool is the sole responsibility of the user.
+30 stars and I will drop the source code
 #2024/8/6 lfillaz
